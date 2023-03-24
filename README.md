@@ -12,7 +12,7 @@ Tenho 34 anos e estou fazendo de transição de carreira para a área de TI, mai
 Tenho formação na área de engenharia e entendo que esse background irá me auxiliar muito no desenvolvimento das novas competências e habilidades em Ciência de Dados. Gosto de me manter atualizado, consumindo artigos, podcasts e livros.
 Além da área de tecnologia, sou músico, gosto de estudar investimentos e desenvolvimento humano.
 
-**O que tenho estudado:** Python, Google Colab, Biblioteca Pandas.
+**O que tenho estudado:** Python, Google Collab, Biblioteca Pandas.
 
 **Links:**
 * [Instagram](https://instagram.com/cdados.br)
