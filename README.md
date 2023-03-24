@@ -5,22 +5,23 @@
 </p>
 
 # Bruno Alves
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Estudante* Sigmoidal.ia</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Tenho 34 anos e estou fazendo de transição de carreira para a área de TI, mais precisamente para o segmento de dados. Pretendo documentar e compartilhar aqui meus exercícios, aprendizados e futuros projetos.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Tenho formação na área de engenharia e entendo que esse background irá me auxiliar muito no desenvolvimento das novas competências e habilidades em Ciência de Dados. Gosto de me manter atualizado, consumindo artigos, podcasts e livros.
+Além da área de tecnologia, sou músico, gosto de estudar investimentos e desenvolvimento humano.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**O que tenho estudado:** Python, Google Colab, Biblioteca Pandas.
 
 **Links:**
-* [Blog](https://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [Instagram](https://instagram.com/cdados.br)
+* [LinkedIn](em desenvolvimento)
+* [Medium](em desenvolvimento)
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Seguem os projetos que pretendo me aprofundar, presentes na plataforma do Sigmoidal:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
