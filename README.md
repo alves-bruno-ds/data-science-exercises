@@ -7,7 +7,7 @@
 # Bruno Alves
 <sub>*Estudante* Sigmoidal.ia</sub>
 
-Tenho 34 anos e estou fazendo de transição de carreira para a área de TI, mais precisamente para o segmento de dados. Pretendo documentar e compartilhar aqui meus exercícios, aprendizados e futuros projetos.
+Tenho 35 anos e estou fazendo de transição de carreira para a área de TI, mais precisamente para o segmento de dados. Pretendo documentar e compartilhar aqui meus exercícios, aprendizados e futuros projetos.
 
 Tenho formação na área de engenharia e entendo que esse background irá me auxiliar muito no desenvolvimento das novas competências e habilidades em Ciência de Dados. Gosto de me manter atualizado, consumindo artigos, podcasts e livros.
 Além da área de tecnologia, sou músico, gosto de estudar investimentos e desenvolvimento humano.
