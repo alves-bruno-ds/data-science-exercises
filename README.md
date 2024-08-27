@@ -16,7 +16,7 @@ Além da área de tecnologia, sou músico, gosto de estudar investimentos e dese
 
 **Links:**
 * [Instagram](https://instagram.com/cdados.br)
-* [LinkedIn](https://www.linkedin.com/in/alves-bruno-ds)
+* [LinkedIn](https://www.linkedin.com/in/bruno22ds)
 * [Medium](https://medium.com/@cdados.br)
 
 
